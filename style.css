@@ -1,0 +1,52 @@
+header{
+    background-color: blue;
+    font-family: 'Abril Fatface', cursive;
+    color: aliceblue;
+    text-align: center;
+    padding-top: .3em;
+    padding-bottom: .1vh;
+    margin-bottom: 3em;
+    border: 3px black;
+}
+
+footer{
+    background-color: blue;
+    border: 1em black;
+    justify-items: auto;
+    height: 20vh;
+}
+
+img{
+    justify-self:auto ;
+    max-height: 150px;
+}
+
+h2{
+    text-align: center;
+}
+
+.card{
+    background-color: aqua;
+    box-shadow:.5em, rgba(100, 148, 237, 0.69), ;
+    height: 10px;
+    width: 37em;
+}
+.flex{
+    display: flex; justify-content: center;
+}
+.flex-align{
+    display: flex start;
+}
+.paragraph-card{
+height: 18em;
+width: 25em;
+padding-left: 20em;
+padding-right: 13em;
+}
+.side-card{
+    max-width: 11em;
+}
+:hover{
+    background-color: darkviolet;
+    box-shadow: 2em;
+}
