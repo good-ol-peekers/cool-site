@@ -46,7 +46,6 @@ padding-right: 13em;
 .side-card{
     max-width: 11em;
 }
-:hover{
-    background-color: darkviolet;
-    box-shadow: 2em;
+.background{
+    background-color: #b18ebd70  
 }
